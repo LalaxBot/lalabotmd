@@ -1,17 +1,17 @@
 {
     "ownerNumber": ["6281346074841@s.whatsapp.net","6281346074841@s.whatsapp.net"],
-    "ownerName": "Tymon Kolasinski",
+    "ownerName": "Izin dlu_-",
     "instagram" : "https://instagram.com/zeeoneofc",
-    "botName": "LalaBotMd",
-    "footer": "LalabotMD",
+    "botName": "Mau nyolong sticker gw?",
+    "footer": "SelfBot||MD",
     "sessionName": "session",
     "pathimg": "./media/Haruka.jpg",
     "BotKey": "V12",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
-    "autobio": true,
+    "autobio": false,
     "gamewaktu": 90,
-    "limitCount": 25,
+    "limitCount": 30,
     "gcount": {
         "prem": 1000,
         "user": 15
